@@ -1,0 +1,12 @@
+* `for`
+    For es un comando para utilizar un statements; estos son estructuras de repetición
+    unitlizadas para simplificar el código utilizado en las iteraciones repetitivas.
+    Evitando la repetición de la sintáxis en la escritura del código.
+
+* `&&`, `||`, `!`
+    Son operadores lógicos para utilizar en mi código cuando necesito comparar expresiones.
+    En el caso de &&, es utilizada para llevar a la lógica comparativa dos expresiones a la vez,
+    ej: si a y b se cumple. En el caso de || lleva a la lógica de comparación siempre que se cumpla
+    al menos una de más expresiones ej: condición a o condición b. Por último, el operador ! 
+    niega la expresión, es decir, se va a cumplir cuando ocurre lo contrario de la expresión
+    ej: !0 se va a cumplir cuando sean todos los números reales exepto el 0.
