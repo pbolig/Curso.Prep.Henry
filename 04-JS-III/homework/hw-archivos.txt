@@ -1,0 +1,2 @@
+# Arrays:
+Son listas que se pueden usar para almacenar información de distintos tipos. Adicionalmente, cuando tiene información, se pueden iterar para obtener el valor o ejecutar si es que ese espacio en memoria es un statement.
